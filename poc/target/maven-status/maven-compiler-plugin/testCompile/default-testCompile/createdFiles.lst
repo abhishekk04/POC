@@ -1,0 +1,6 @@
+com\bayer\pages\Page.class
+com\bayer\pages\HomePage.class
+com\bayer\SampleTestNgTest.class
+com\bayer\TestNgTestBase.class
+com\bayer\SuiteConfiguration.class
+com\bayer\ReportToExcelTest.class

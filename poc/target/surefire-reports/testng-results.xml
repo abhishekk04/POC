@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-15T12:41:49Z" name="Tests" finished-at="2019-06-15T12:43:51Z" duration-ms="122290">
+    <groups>
+    </groups>
+    <test started-at="2019-06-15T12:41:49Z" name="Test1" finished-at="2019-06-15T12:43:51Z" duration-ms="122290">
+      <class name="com.bayer.ReportToExcelTest">
+        <test-method is-config="true" signature="initWebDriver()[pri:0, instance:com.bayer.ReportToExcelTest@1eb5174b]" started-at="2019-06-15T12:42:00Z" name="initWebDriver" finished-at="2019-06-15T12:42:00Z" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initWebDriver -->
+        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:com.bayer.ReportToExcelTest@1eb5174b]" started-at="2019-06-15T12:42:00Z" name="initPageObjects" finished-at="2019-06-15T12:42:00Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPageObjects -->
+        <test-method signature="testHomePageHasAHeader()[pri:0, instance:com.bayer.ReportToExcelTest@1eb5174b]" started-at="2019-06-15T12:42:00Z" name="testHomePageHasAHeader" finished-at="2019-06-15T12:43:51Z" duration-ms="110795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageHasAHeader -->
+      </class> <!-- com.bayer.ReportToExcelTest -->
+      <class name="com.bayer.SampleTestNgTest">
+        <test-method is-config="true" signature="initTestSuite()[pri:0, instance:com.bayer.SampleTestNgTest@79da8dc5]" started-at="2019-06-15T12:41:49Z" name="initTestSuite" finished-at="2019-06-15T12:41:49Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestSuite -->
+        <test-method is-config="true" signature="initWebDriver()[pri:0, instance:com.bayer.SampleTestNgTest@79da8dc5]" started-at="2019-06-15T12:41:49Z" name="initWebDriver" finished-at="2019-06-15T12:41:53Z" duration-ms="4606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initWebDriver -->
+        <test-method is-config="true" signature="initPageObjects()[pri:0, instance:com.bayer.SampleTestNgTest@79da8dc5]" started-at="2019-06-15T12:41:53Z" name="initPageObjects" finished-at="2019-06-15T12:41:53Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPageObjects -->
+        <test-method signature="testHomePageHasAHeader()[pri:0, instance:com.bayer.SampleTestNgTest@79da8dc5]" started-at="2019-06-15T12:41:53Z" name="testHomePageHasAHeader" finished-at="2019-06-15T12:42:00Z" duration-ms="6700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageHasAHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bayer.SampleTestNgTest@79da8dc5]" started-at="2019-06-15T12:43:51Z" name="tearDown" finished-at="2019-06-15T12:43:52Z" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bayer.SampleTestNgTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Tests -->
+</testng-results>
